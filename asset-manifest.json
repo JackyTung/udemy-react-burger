@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.js": "/udemy-react-burger/static/js/main.e3f368c8.chunk.js",
-    "main.js.map": "/udemy-react-burger/static/js/main.e3f368c8.chunk.js.map",
-    "order.js": "/udemy-react-burger/static/js/order.3cb04d70.chunk.js",
-    "order.js.map": "/udemy-react-burger/static/js/order.3cb04d70.chunk.js.map",
-    "runtime-main.js": "/udemy-react-burger/static/js/runtime-main.1582bdc3.js",
-    "runtime-main.js.map": "/udemy-react-burger/static/js/runtime-main.1582bdc3.js.map",
-    "static/js/3.6aeb1a5d.chunk.js": "/udemy-react-burger/static/js/3.6aeb1a5d.chunk.js",
-    "static/js/3.6aeb1a5d.chunk.js.map": "/udemy-react-burger/static/js/3.6aeb1a5d.chunk.js.map",
-    "static/js/4.4f6d8780.chunk.js": "/udemy-react-burger/static/js/4.4f6d8780.chunk.js",
-    "static/js/4.4f6d8780.chunk.js.map": "/udemy-react-burger/static/js/4.4f6d8780.chunk.js.map",
+    "main.js": "/udemy-react-burger/static/js/main.07a9333a.chunk.js",
+    "main.js.map": "/udemy-react-burger/static/js/main.07a9333a.chunk.js.map",
+    "order.js": "/udemy-react-burger/static/js/order.723b1fff.chunk.js",
+    "order.js.map": "/udemy-react-burger/static/js/order.723b1fff.chunk.js.map",
+    "runtime-main.js": "/udemy-react-burger/static/js/runtime-main.eb3accdb.js",
+    "runtime-main.js.map": "/udemy-react-burger/static/js/runtime-main.eb3accdb.js.map",
+    "static/js/3.2f67a037.chunk.js": "/udemy-react-burger/static/js/3.2f67a037.chunk.js",
+    "static/js/3.2f67a037.chunk.js.map": "/udemy-react-burger/static/js/3.2f67a037.chunk.js.map",
+    "static/js/4.8a1a823f.chunk.js": "/udemy-react-burger/static/js/4.8a1a823f.chunk.js",
+    "static/js/4.8a1a823f.chunk.js.map": "/udemy-react-burger/static/js/4.8a1a823f.chunk.js.map",
     "index.html": "/udemy-react-burger/index.html",
-    "precache-manifest.0382541d6cdc24100959ac6ac50343de.js": "/udemy-react-burger/precache-manifest.0382541d6cdc24100959ac6ac50343de.js",
+    "precache-manifest.1fa96572d518c5829ed3479e8fff4159.js": "/udemy-react-burger/precache-manifest.1fa96572d518c5829ed3479e8fff4159.js",
     "service-worker.js": "/udemy-react-burger/service-worker.js",
-    "static/js/3.6aeb1a5d.chunk.js.LICENSE": "/udemy-react-burger/static/js/3.6aeb1a5d.chunk.js.LICENSE",
-    "static/js/4.4f6d8780.chunk.js.LICENSE": "/udemy-react-burger/static/js/4.4f6d8780.chunk.js.LICENSE"
+    "static/js/3.2f67a037.chunk.js.LICENSE": "/udemy-react-burger/static/js/3.2f67a037.chunk.js.LICENSE",
+    "static/js/4.8a1a823f.chunk.js.LICENSE": "/udemy-react-burger/static/js/4.8a1a823f.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.1582bdc3.js",
-    "static/js/3.6aeb1a5d.chunk.js",
-    "static/js/main.e3f368c8.chunk.js"
+    "static/js/runtime-main.eb3accdb.js",
+    "static/js/3.2f67a037.chunk.js",
+    "static/js/main.07a9333a.chunk.js"
   ]
 }
